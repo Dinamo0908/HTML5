@@ -1,0 +1,68 @@
+body 
+{
+    background-color: red;
+    color: white;
+    font-family: Georgia, serif;
+}
+
+.align {
+    position: relative;
+    left: 1000px;
+}
+
+.image {
+    position: relative;
+    left: 1100px;
+    width: 10%;  
+}
+
+a
+{
+    color: black;
+}
+
+p 
+{
+    padding: 30px;
+}
+
+h1 
+{
+    outline: 4.5px solid white;
+    outline-offset: 4.5px;
+}
+
+ul
+{
+    font-style: italic;
+    font-weight: bold;
+    list-style-type: square;
+}
+
+.align2{
+    text-align: center;
+}
+
+h2 
+{
+    font-style: oblique;
+}
+
+.center
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+blockquote 
+{
+    text-align: center;
+    font-style: italic;
+}
+
+nav {
+    text-align: center;
+    background-color: white;
+    font-style: italic;
+}
